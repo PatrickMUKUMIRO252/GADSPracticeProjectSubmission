@@ -6,6 +6,7 @@ this file contains the VPC NETWORKING laboratory translates 100% from the gcloud
 this file contains the CONFIGURE AN HTTP LOAD BALANCER WITH AUTOSCALING laboratory in 100% command line gcloud or Cloud Shell with screenshots of commands and results
 ## 15 selected hands-on labs screenshot on Qwiklabs:
 this file contains screenshots of email notifications in my private box of the 15 Laboratories among the laboratories already made 100% in quicklab
-##Note
-The controls on the image captures may be too small for easy reading, Please zoom in the text for good visibility.
+
+## Note
+The commandes lines on the image captures may be too small for easy reading, Please zoom in the text for good visibility.
 
